@@ -1,0 +1,30 @@
+adapter/inbound/addition.go
+  s_03d1dd7d1521db::t_8330fd2ff3dcb9 41-52
+constant/metadata.go
+  s_03d1dd7d1521db::t_971ce13cdf804a 191-216
+listener/inbound/base.go
+  s_03d1dd7d1521db::t_9b0ca656425768 98-102,123-124
+listener/inbound/base_test.go
+  s_03d1dd7d1521db::t_99c2e9904b6c53 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a7dec1daef11addb5c4830965dc4c8e261db2f90",
+  "prompts": {},
+  "humans": {
+    "h_f8a545b450e75d": {
+      "author": "Soulock <admin@5yweb.com>"
+    }
+  },
+  "sessions": {
+    "s_03d1dd7d1521db": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a66980fe10db55353",
+        "model": "unknown"
+      },
+      "human_author": "Soulock <admin@5yweb.com>"
+    }
+  }
+}
