@@ -1,0 +1,28 @@
+docs/superpowers/plans/2026-10-11-multiple-proxy.md
+  s_23a1de66029075::t_474cfab06e2c87 1-647
+config/multiple_proxy_test.go
+  s_23a1de66029075::t_658c9c7b3516ab 381-403
+docs/superpowers/specs/2026-10-11-multiple-proxy-design.md
+  s_23a1de66029075::t_f0ab80af432e54 49,94-97,172,220,233-242,251-255
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e91cdbf32cd17224a59e613cf70f977a4e708403",
+  "prompts": {},
+  "humans": {
+    "h_f8a545b450e75d": {
+      "author": "Soulock <admin@5yweb.com>"
+    }
+  },
+  "sessions": {
+    "s_23a1de66029075": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2d05ec76-8730-4c68-900a-b830815aae6a",
+        "model": "unknown"
+      },
+      "human_author": "Soulock <admin@5yweb.com>"
+    }
+  }
+}
