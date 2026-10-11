@@ -1,0 +1,26 @@
+README.md
+  s_23a1de66029075::t_4a76b2b94ad885 24
+docs/config.yaml
+  s_23a1de66029075::t_9fb9005c4775fe 2844-2867
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6d9154c827a6f9ddd6b5b52f33a91ef7412da073",
+  "prompts": {},
+  "humans": {
+    "h_f8a545b450e75d": {
+      "author": "Soulock <admin@5yweb.com>"
+    }
+  },
+  "sessions": {
+    "s_23a1de66029075": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2d05ec76-8730-4c68-900a-b830815aae6a",
+        "model": "unknown"
+      },
+      "human_author": "Soulock <admin@5yweb.com>"
+    }
+  }
+}
