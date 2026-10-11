@@ -1,0 +1,28 @@
+config/config.go
+  s_d5672bb27d9732::t_52ac0c66904d6f 723-726
+config/multiple_proxy.go
+  s_d5672bb27d9732::t_b9c566fd83211d 15-16,264-391
+config/multiple_proxy_test.go
+  s_d5672bb27d9732::t_0af5b4e31f5009 11,205-358
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "43b07d693eb9ae30baf809aabd1e6ad20d72df46",
+  "prompts": {},
+  "humans": {
+    "h_f8a545b450e75d": {
+      "author": "Soulock <admin@5yweb.com>"
+    }
+  },
+  "sessions": {
+    "s_d5672bb27d9732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a9525810ac45e5f38",
+        "model": "unknown"
+      },
+      "human_author": "Soulock <admin@5yweb.com>"
+    }
+  }
+}
