@@ -1,0 +1,26 @@
+tunnel/multiple_proxy_test.go
+  s_b98e7e73dbe883::t_b0fb3b07cd5198 1-72
+tunnel/tunnel.go
+  s_b98e7e73dbe883::t_b0fa5851db8a0a 401,405,409,646,648,655-681
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6212620fecaa4f07a4190862d8e6889b0346d663",
+  "prompts": {},
+  "humans": {
+    "h_f8a545b450e75d": {
+      "author": "Soulock <admin@5yweb.com>"
+    }
+  },
+  "sessions": {
+    "s_b98e7e73dbe883": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a36098bcc2ed974e0",
+        "model": "unknown"
+      },
+      "human_author": "Soulock <admin@5yweb.com>"
+    }
+  }
+}
